@@ -1,2 +1,3 @@
 rootProject.name='取代默认的系统应用'
 include ':defaultdialer'
+include ':defaultmessage'
